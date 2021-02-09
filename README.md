@@ -1,3 +1,4 @@
-## Minería de Datos Febrero - Junio 2021
+## Minería de Datos 
+# Febrero - Junio 2021
 
-## Fase 1
+# Fase 1
