@@ -8,4 +8,4 @@
 
 [Ejercicios Básicos en Python](https://github.com/marioalb127/MinDat2021/blob/main/Ej_Python_1860043.ipynb)
 
-[Ejercicio de Limpieza de Datos](https://github.com/marioalb127/MinDat2021/blob/main/Ej_Limpieza_Equipo3.ipynb)
+[Práctica 1: Limpieza de Datos](https://github.com/marioalb127/MinDat2021/blob/main/Ej_Limpieza_Equipo3.ipynb)
