@@ -13,3 +13,5 @@
 [Práctica 1: Limpieza de Datos](https://github.com/marioalb127/MinDat2021/blob/main/Ej_Limpieza_Equipo3.ipynb)
 
 [Primer Avance del PIA](https://github.com/marioalb127/MinDat2021/blob/main/Avance1_PIA_Equipo3.ipynb)
+
+## Fase 2
