@@ -24,3 +24,5 @@
 [Práctica 2: Visualización de datos](https://github.com/marioalb127/MinDat2021/blob/main/Visualizaci%C3%B3n_Equipo3.ipynb)
 
 [Segundo Avance del PIA](https://github.com/marioalb127/MinDat2021)
+
+## Fase 3
