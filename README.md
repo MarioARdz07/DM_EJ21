@@ -19,7 +19,7 @@
   * [Ejemplo sobre Regresión Lineal](https://github.com/marioalb127/MinDat2021/blob/main/Ejemplo_Regresi%C3%B3n-Lineal_Equipo-3.ipynb)
   * [Calificaciones de Mini Examen de Regresión Lineal](https://github.com/marioalb127/MinDat2021/blob/main/Calificaciones_Regresi%C3%B3n-Lineal_Equipo-3.pdf)
 
-[Mapa Mental II](https://github.com/marioalb127/MinDat2021)
+[Mapa Mental II](https://github.com/marioalb127/MinDat2021/blob/main/MapaMental_2_1860043.pdf)
 
 [Práctica 2: Visualización de datos](https://github.com/marioalb127/MinDat2021/blob/main/Visualizaci%C3%B3n_Equipo3.ipynb)
 
