@@ -17,5 +17,6 @@
 * [Mapa Mental II](https://github.com/marioalb127/MinDat2021/blob/main/MapaMental_2_1860043.pdf)
 * [Práctica II: Visualización de datos](https://github.com/marioalb127/MinDat2021/blob/main/Visualizaci%C3%B3n_Equipo3.ipynb)
 * [Segundo Avance del PIA](https://github.com/marioalb127/MinDat2021/blob/main/AvancePIA_II_G003_E3.ipynb)
+  * [Segundo Avance del PIA (Corregido)](xd)
 
 ## Fase 3
