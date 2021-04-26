@@ -1,5 +1,4 @@
 # Minería de Datos 
-* ##### Febrero - Junio 2021 
 * ##### Grupo: 003 (Lunes 18-21)
 * ##### Equipo: 3
 
