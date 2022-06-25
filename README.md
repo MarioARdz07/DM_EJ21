@@ -1,6 +1,5 @@
 # Minería de Datos 
-* ##### Grupo: 003 (Lunes 18-21)
-* ##### Equipo: 3
+* ##### Grupo: 003
 
 ## Fase 1
 * [Mapa Mental I](https://github.com/marioalb127/MinDat2021/blob/main/MapaMental_1_1860043.pdf)
